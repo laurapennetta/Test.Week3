@@ -1,0 +1,16 @@
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\bin\Debug\net5.0\Test.Week3.exe
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\bin\Debug\net5.0\Test.Week3.deps.json
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\bin\Debug\net5.0\Test.Week3.runtimeconfig.json
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\bin\Debug\net5.0\Test.Week3.runtimeconfig.dev.json
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\bin\Debug\net5.0\Test.Week3.dll
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\bin\Debug\net5.0\ref\Test.Week3.dll
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\bin\Debug\net5.0\Test.Week3.pdb
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\obj\Debug\net5.0\Test.Week3.csprojAssemblyReference.cache
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\obj\Debug\net5.0\Test.Week3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\obj\Debug\net5.0\Test.Week3.AssemblyInfoInputs.cache
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\obj\Debug\net5.0\Test.Week3.AssemblyInfo.cs
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\obj\Debug\net5.0\Test.Week3.csproj.CoreCompileInputs.cache
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\obj\Debug\net5.0\Test.Week3.dll
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\obj\Debug\net5.0\ref\Test.Week3.dll
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\obj\Debug\net5.0\Test.Week3.pdb
+C:\Users\laura.pennetta\Desktop\Test.Week3\Test.Week3\obj\Debug\net5.0\Test.Week3.genruntimeconfig.cache
